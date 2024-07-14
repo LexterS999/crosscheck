@@ -31,3 +31,4 @@ https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telem
 https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/nvidia-telemetry.txt
 https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/windows-telemetry-spy-blocklist.txt
 https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/xiaomi-telemetry-tracking.txt
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
