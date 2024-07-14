@@ -1153,3 +1153,4 @@ https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung
 https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos is offline.\n
 https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows is offline.\n
 https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi is offline.\n
+https://dbl.oisd.nl/ is offline.\n
