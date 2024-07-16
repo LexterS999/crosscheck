@@ -1,77 +1,221 @@
 
 
-### https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
+### https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt
 | % included | URL  |
 |---|---|
-| 14 | https://mkb2091.github.io/blockconvert/output/domains.txt |
-| 30 | https://hblock.molinero.dev/hosts_domains.txt |
-| 28 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 48 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+| 0 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 0 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 0 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 0 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 0 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 0 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 0 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 0 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 0 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 0 | https://hosts.flossboxin.org.in/files/hosts |
+| 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 0 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+
+
+### https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock
+| % included | URL  |
+|---|---|
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 34 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 28 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 38 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 38 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 19 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 15 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 15 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 57 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 29 | https://hosts.flossboxin.org.in/files/hosts |
-| 11 | https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt |
+| 42 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 75 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 
 
-### https://mkb2091.github.io/blockconvert/output/domains.txt
+### https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock
 | % included | URL  |
 |---|---|
-| 57 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt |
-| 43 | https://hblock.molinero.dev/hosts_domains.txt |
-| 44 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 49 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
-| 44 | https://hosts.flossboxin.org.in/files/hosts |
-| 14 | https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt |
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 45 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 29 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 36 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 23 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 14 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 11 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 15 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 77 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 28 | https://hosts.flossboxin.org.in/files/hosts |
+| 33 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 52 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 
 
-### https://hblock.molinero.dev/hosts_domains.txt
+### https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock
 | % included | URL  |
 |---|---|
-| 62 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt |
-| 20 | https://mkb2091.github.io/blockconvert/output/domains.txt |
-| 41 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 47 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 47 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 36 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 54 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 28 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 42 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 31 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 47 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 70 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 97 | https://hosts.flossboxin.org.in/files/hosts |
-| 23 | https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt |
+| 22 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 89 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 
 
-### https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+### https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock
 | % included | URL  |
 |---|---|
-| 36 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt |
-| 13 | https://mkb2091.github.io/blockconvert/output/domains.txt |
-| 25 | https://hblock.molinero.dev/hosts_domains.txt |
-| 38 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
-| 27 | https://hosts.flossboxin.org.in/files/hosts |
-| 10 | https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt |
-
-
-### https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt
-| % included | URL  |
-|---|---|
-| 63 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt |
-| 17 | https://mkb2091.github.io/blockconvert/output/domains.txt |
-| 29 | https://hblock.molinero.dev/hosts_domains.txt |
-| 38 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 36 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 25 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 30 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 31 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 24 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 17 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 14 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 41 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 30 | https://hosts.flossboxin.org.in/files/hosts |
-| 15 | https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt |
+| 17 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 64 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+
+
+### https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt
+| % included | URL  |
+|---|---|
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 40 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 18 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 18 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 36 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 12 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 20 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 9 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 33 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 18 | https://hosts.flossboxin.org.in/files/hosts |
+| 20 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 70 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+
+
+### https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt
+| % included | URL  |
+|---|---|
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 73 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 42 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 95 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 97 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 43 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 73 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 98 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 77 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 95 | https://hosts.flossboxin.org.in/files/hosts |
+| 30 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 95 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+
+
+### https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt
+| % included | URL  |
+|---|---|
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 78 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 44 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 95 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 96 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 97 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 100 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 98 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 80 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 95 | https://hosts.flossboxin.org.in/files/hosts |
+| 33 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 97 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+
+
+### https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt
+| % included | URL  |
+|---|---|
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 49 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 36 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 90 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 50 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 28 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 83 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 61 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 67 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 90 | https://hosts.flossboxin.org.in/files/hosts |
+| 26 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 95 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+
+
+### https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt
+| % included | URL  |
+|---|---|
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 56 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 57 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 41 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 43 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 30 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 20 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 15 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 21 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 40 | https://hosts.flossboxin.org.in/files/hosts |
+| 31 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 95 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 
 
 ### https://hosts.flossboxin.org.in/files/hosts
 | % included | URL  |
 |---|---|
-| 63 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt |
-| 21 | https://mkb2091.github.io/blockconvert/output/domains.txt |
-| 100 | https://hblock.molinero.dev/hosts_domains.txt |
-| 44 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 51 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
-| 24 | https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt |
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 50 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 39 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 100 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 56 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 29 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 43 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 32 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 49 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 71 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 22 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 91 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 
 
-### https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt
+### https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt
 | % included | URL  |
 |---|---|
-| 100 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt |
-| 36 | https://mkb2091.github.io/blockconvert/output/domains.txt |
-| 96 | https://hblock.molinero.dev/hosts_domains.txt |
-| 61 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt |
-| 100 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt |
-| 95 | https://hosts.flossboxin.org.in/files/hosts |
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 2 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 1 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 1 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 1 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 1 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 0 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 0 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 0 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 1 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 1 | https://hosts.flossboxin.org.in/files/hosts |
+| 1 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+
+
+### https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
+| % included | URL  |
+|---|---|
+|  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
+| 22 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 12 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 15 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 20 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 19 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 7 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 5 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 9 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 28 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 15 | https://hosts.flossboxin.org.in/files/hosts |
+| 10 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
