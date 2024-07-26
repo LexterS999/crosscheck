@@ -71,21 +71,21 @@
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
 | 34 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 28 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
-| 38 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 39 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
 | 38 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
 | 19 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
-| 15 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 16 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
 | 15 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
 | 58 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 29 | https://hosts.flossboxin.org.in/files/hosts |
 | 42 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 75 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
-| 36 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
+| 76 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 37 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 86 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 73 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 87 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 75 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
-| 75 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
+| 76 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 73 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 66 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 86 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
@@ -93,7 +93,7 @@
 | 49 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 80 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 76 | https://easylist.to/easylist/easylist.txt |
-| 8 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 10 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 2 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 3 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -125,7 +125,7 @@
 | 12 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt |
 | 3 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt |
 | 36 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt |
-| 46 | https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt |
+| 45 | https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt |
 | 73 | https://raw.githubusercontent.com/cbuijs/accomplist/master/trackers/adblock.txt |
 | 59 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock |
 
@@ -134,34 +134,34 @@
 | % included | URL  |
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
-| 46 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 45 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
 | 29 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
-| 38 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 37 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
 | 23 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
 | 15 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
 | 12 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
 | 15 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
 | 77 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
-| 29 | https://hosts.flossboxin.org.in/files/hosts |
+| 28 | https://hosts.flossboxin.org.in/files/hosts |
 | 34 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 53 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 54 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 34 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 63 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 55 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 51 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 56 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
-| 49 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
+| 50 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 55 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 63 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 74 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
-| 76 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
+| 74 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 38 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
-| 79 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
-| 54 | https://easylist.to/easylist/easylist.txt |
+| 78 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
+| 53 | https://easylist.to/easylist/easylist.txt |
 | 32 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 12 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 8 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
-| 4 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
+| 2 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
 | 9 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/monitoring.txt |
 | 60 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
 | 4 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -199,11 +199,11 @@
 | % included | URL  |
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
-| 47 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
-| 36 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 46 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 35 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 54 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
 | 28 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
-| 42 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 41 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
 | 31 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
 | 46 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
 | 69 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
@@ -218,12 +218,12 @@
 | 99 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 87 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 99 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
-| 100 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
+| 99 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
 | 91 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
-| 47 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
+| 46 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 88 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 97 | https://easylist.to/easylist/easylist.txt |
-| 3 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 4 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 3 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -247,7 +247,7 @@
 | 19 | https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list |
 | 3 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt |
 | 7 | https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts |
-| 84 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
+| 87 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
 | 3 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat |
 | 82 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
 | 92 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
@@ -264,31 +264,31 @@
 | % included | URL  |
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
-| 35 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
-| 25 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
-| 30 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 34 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 24 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 29 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
 | 31 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
 | 23 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
 | 17 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
 | 14 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
-| 41 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
-| 29 | https://hosts.flossboxin.org.in/files/hosts |
+| 40 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 28 | https://hosts.flossboxin.org.in/files/hosts |
 | 17 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 63 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 64 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 12 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 70 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
-| 76 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
+| 75 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 46 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
-| 67 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
-| 59 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
-| 76 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
+| 66 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
+| 60 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
+| 75 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 66 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
-| 79 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
-| 79 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
-| 8 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
-| 20 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
-| 66 | https://easylist.to/easylist/easylist.txt |
-| 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 80 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
+| 78 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
+| 7 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
+| 21 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
+| 65 | https://easylist.to/easylist/easylist.txt |
+| 2 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -300,7 +300,7 @@
 | 37 | https://fanboy.co.nz/r/fanboy-ultimate.txt |
 | 65 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/ads-1.txt |
 | 1 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/affiliate-click-tracking.txt |
-| 10 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/android-telemetry-tracking.txt |
+| 9 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/android-telemetry-tracking.txt |
 | 44 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/basic-telemetry-devices.txt |
 | 3 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/windows-telemetry-spy-blocklist.txt |
 | 7 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/xiaomi-telemetry-tracking.txt |
@@ -312,14 +312,14 @@
 | 12 | https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list |
 | 4 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt |
 | 15 | https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts |
-| 83 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
+| 84 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
 | 2 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat |
 | 70 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
 | 95 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
 | 0 | https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/hola-luminati-full-block.txt |
 | 6 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt |
 | 3 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt |
-| 29 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt |
+| 28 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt |
 | 28 | https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt |
 | 10 | https://raw.githubusercontent.com/cbuijs/accomplist/master/trackers/adblock.txt |
 | 78 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock |
@@ -329,7 +329,7 @@
 | % included | URL  |
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
-| 40 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 39 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
 | 18 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 18 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
 | 36 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
@@ -338,22 +338,22 @@
 | 10 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
 | 32 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 18 | https://hosts.flossboxin.org.in/files/hosts |
-| 20 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 70 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 21 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 71 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 16 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 77 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
-| 75 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
-| 70 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
+| 76 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
+| 71 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 72 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
 | 67 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
-| 75 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
+| 76 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 46 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
-| 85 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
+| 86 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
 | 88 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 15 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 50 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 72 | https://easylist.to/easylist/easylist.txt |
-| 2 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 3 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -370,23 +370,23 @@
 | 2 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/windows-telemetry-spy-blocklist.txt |
 | 7 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/xiaomi-telemetry-tracking.txt |
 | 10 | https://easylist-downloads.adblockplus.org/ruadlist.txt |
-| 36 | https://raw.githubusercontent.com/bogachenko/filterlist/main/bogachenkoBL.hosts |
+| 35 | https://raw.githubusercontent.com/bogachenko/filterlist/main/bogachenkoBL.hosts |
 | 42 | https://git.herrbischoff.com/trackers/plain/trackers.txt |
 | 75 | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung |
-| 7 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 19 | https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list |
-| 5 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt |
+| 6 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 20 | https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list |
+| 6 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt |
 | 10 | https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts |
-| 83 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
+| 84 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
 | 3 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat |
 | 67 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
 | 56 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
 | 50 | https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/hola-luminati-full-block.txt |
 | 3 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt |
-| 0 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt |
+| 1 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt |
 | 28 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt |
 | 33 | https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt |
-| 24 | https://raw.githubusercontent.com/cbuijs/accomplist/master/trackers/adblock.txt |
+| 25 | https://raw.githubusercontent.com/cbuijs/accomplist/master/trackers/adblock.txt |
 | 66 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock |
 
 
@@ -398,9 +398,9 @@
 | 42 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 95 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
 | 97 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
-| 43 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 45 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
 | 74 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
-| 96 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 98 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
 | 77 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 95 | https://hosts.flossboxin.org.in/files/hosts |
 | 30 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
@@ -414,11 +414,11 @@
 | 80 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 97 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 100 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
-| 97 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
+| 96 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 90 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
-| 88 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
+| 87 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 98 | https://easylist.to/easylist/easylist.txt |
-| 6 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 8 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 4 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -427,16 +427,16 @@
 | 4 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 71 | https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed |
 | 23 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
-| 93 | https://fanboy.co.nz/r/fanboy-ultimate.txt |
+| 92 | https://fanboy.co.nz/r/fanboy-ultimate.txt |
 | 79 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/ads-1.txt |
 | 54 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/affiliate-click-tracking.txt |
 | 27 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/android-telemetry-tracking.txt |
 | 81 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/basic-telemetry-devices.txt |
 | 43 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/windows-telemetry-spy-blocklist.txt |
 | 20 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/xiaomi-telemetry-tracking.txt |
-| 23 | https://easylist-downloads.adblockplus.org/ruadlist.txt |
+| 24 | https://easylist-downloads.adblockplus.org/ruadlist.txt |
 | 48 | https://raw.githubusercontent.com/bogachenko/filterlist/main/bogachenkoBL.hosts |
-| 58 | https://git.herrbischoff.com/trackers/plain/trackers.txt |
+| 57 | https://git.herrbischoff.com/trackers/plain/trackers.txt |
 | 100 | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung |
 | 24 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 23 | https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list |
@@ -448,7 +448,7 @@
 | 99 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
 | 50 | https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/hola-luminati-full-block.txt |
 | 94 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt |
-| 84 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt |
+| 83 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt |
 | 98 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt |
 | 42 | https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt |
 | 96 | https://raw.githubusercontent.com/cbuijs/accomplist/master/trackers/adblock.txt |
@@ -459,20 +459,20 @@
 | % included | URL  |
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
-| 78 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 79 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
 | 44 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 95 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
 | 96 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
 | 97 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
 | 100 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
-| 96 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 98 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
 | 81 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 95 | https://hosts.flossboxin.org.in/files/hosts |
 | 33 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
 | 96 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
-| 29 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
+| 30 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 91 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
-| 76 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
+| 77 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 96 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 97 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
 | 98 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
@@ -483,9 +483,9 @@
 | 91 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 87 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 99 | https://easylist.to/easylist/easylist.txt |
-| 8 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 10 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 4 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
-| 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
+| 2 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
 | 4 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/monitoring.txt |
 | 58 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
@@ -494,7 +494,7 @@
 | 27 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
 | 93 | https://fanboy.co.nz/r/fanboy-ultimate.txt |
 | 73 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/ads-1.txt |
-| 55 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/affiliate-click-tracking.txt |
+| 56 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/affiliate-click-tracking.txt |
 | 81 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/android-telemetry-tracking.txt |
 | 50 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/basic-telemetry-devices.txt |
 | 94 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/windows-telemetry-spy-blocklist.txt |
@@ -513,7 +513,7 @@
 | 98 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
 | 50 | https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/hola-luminati-full-block.txt |
 | 90 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt |
-| 83 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt |
+| 82 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt |
 | 98 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt |
 | 46 | https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt |
 | 97 | https://raw.githubusercontent.com/cbuijs/accomplist/master/trackers/adblock.txt |
@@ -524,17 +524,17 @@
 | % included | URL  |
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
-| 49 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 48 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
 | 36 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 90 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
 | 50 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
 | 30 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
-| 83 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
-| 61 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 84 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 62 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
 | 67 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 90 | https://hosts.flossboxin.org.in/files/hosts |
 | 26 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 95 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 94 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 20 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 94 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 87 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
@@ -544,11 +544,11 @@
 | 86 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 84 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 99 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
-| 97 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
-| 98 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
-| 87 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
+| 95 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
+| 90 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
+| 86 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 97 | https://easylist.to/easylist/easylist.txt |
-| 6 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 7 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 4 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -589,17 +589,17 @@
 | % included | URL  |
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
-| 58 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 57 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
 | 56 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
-| 42 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
-| 45 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 41 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
+| 44 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
 | 30 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
-| 21 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 20 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
 | 16 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
 | 21 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
-| 41 | https://hosts.flossboxin.org.in/files/hosts |
+| 40 | https://hosts.flossboxin.org.in/files/hosts |
 | 32 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 96 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 95 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 30 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 92 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 81 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
@@ -608,12 +608,12 @@
 | 98 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 81 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 63 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
-| 100 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
-| 98 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
+| 99 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
+| 95 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 43 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
-| 84 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
+| 83 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 98 | https://easylist.to/easylist/easylist.txt |
-| 21 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 22 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 4 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 3 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -639,14 +639,14 @@
 | 24 | https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts |
 | 93 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
 | 9 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat |
-| 69 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
+| 70 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
 | 84 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
 | 50 | https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/hola-luminati-full-block.txt |
 | 94 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt |
 | 1 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt |
 | 47 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt |
 | 43 | https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt |
-| 83 | https://raw.githubusercontent.com/cbuijs/accomplist/master/trackers/adblock.txt |
+| 82 | https://raw.githubusercontent.com/cbuijs/accomplist/master/trackers/adblock.txt |
 | 59 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock |
 
 
@@ -657,25 +657,25 @@
 | 50 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
 | 38 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 100 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
-| 56 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 55 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
 | 29 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
-| 43 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
+| 42 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
 | 32 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
 | 48 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
 | 70 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 22 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 91 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 90 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 18 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 100 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 98 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 96 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
-| 92 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
+| 91 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
 | 100 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 97 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 99 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
-| 100 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
-| 92 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
-| 60 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
+| 99 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
+| 91 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
+| 59 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 95 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 97 | https://easylist.to/easylist/easylist.txt |
 | 4 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
@@ -732,7 +732,7 @@
 | 1 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 23 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 19 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
-| 10 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
+| 11 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 1 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 1 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
 | 1 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
@@ -761,7 +761,7 @@
 | 0 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/xiaomi-telemetry-tracking.txt |
 | 0 | https://easylist-downloads.adblockplus.org/ruadlist.txt |
 | 22 | https://raw.githubusercontent.com/bogachenko/filterlist/main/bogachenkoBL.hosts |
-| 27 | https://git.herrbischoff.com/trackers/plain/trackers.txt |
+| 28 | https://git.herrbischoff.com/trackers/plain/trackers.txt |
 | 0 | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung |
 | 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 5 | https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list |
@@ -784,7 +784,7 @@
 | % included | URL  |
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
-| 22 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 21 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
 | 11 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 15 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
 | 20 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
@@ -800,7 +800,7 @@
 | 15 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 14 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 100 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
-| 73 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
+| 72 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 15 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 68 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 100 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
@@ -813,7 +813,7 @@
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/monitoring.txt |
-| 21 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
+| 22 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
 | 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 29 | https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed |
 | 3 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
@@ -1117,15 +1117,15 @@
 | 6 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
 | 5 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
 | 7 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
-| 23 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 24 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 13 | https://hosts.flossboxin.org.in/files/hosts |
 | 3 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 84 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 87 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 8 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
-| 18 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
+| 17 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 14 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 14 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
-| 63 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
+| 64 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 14 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 0 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 100 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
@@ -1138,7 +1138,7 @@
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/monitoring.txt |
-| 6 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
+| 7 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
 | 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 29 | https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed |
 | 2 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
@@ -1174,16 +1174,16 @@
 | % included | URL  |
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
-| 26 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 25 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
 | 12 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 20 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
 | 22 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
 | 21 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
 | 9 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
-| 7 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
+| 6 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
 | 10 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
 | 33 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
-| 20 | https://hosts.flossboxin.org.in/files/hosts |
+| 19 | https://hosts.flossboxin.org.in/files/hosts |
 | 9 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
 | 86 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 12 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
@@ -1196,9 +1196,9 @@
 | 99 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
 | 91 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 9 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
-| 32 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
+| 31 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 97 | https://easylist.to/easylist/easylist.txt |
-| 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 2 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 2 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -1207,7 +1207,7 @@
 | 2 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 43 | https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed |
 | 11 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
-| 52 | https://fanboy.co.nz/r/fanboy-ultimate.txt |
+| 53 | https://fanboy.co.nz/r/fanboy-ultimate.txt |
 | 54 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/ads-1.txt |
 | 7 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/affiliate-click-tracking.txt |
 | 8 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/android-telemetry-tracking.txt |
@@ -1333,7 +1333,7 @@
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/monitoring.txt |
-| 19 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
+| 18 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed |
 | 0 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
@@ -1352,7 +1352,7 @@
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list |
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt |
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts |
-| 62 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
+| 63 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
 | 0 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat |
 | 0 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
 | 0 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
@@ -1370,29 +1370,29 @@
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
 | 12 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
-| 7 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
+| 8 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 8 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
-| 12 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
+| 13 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
 | 11 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
 | 4 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
 | 3 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
 | 4 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
-| 13 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
+| 14 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 8 | https://hosts.flossboxin.org.in/files/hosts |
 | 3 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 47 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 50 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 7 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 12 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 8 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 12 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
-| 56 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
-| 39 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
+| 58 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
+| 42 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 8 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 0 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 88 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
-| 62 | https://easylist.to/easylist/easylist.txt |
+| 65 | https://easylist.to/easylist/easylist.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
@@ -1402,7 +1402,7 @@
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 29 | https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed |
 | 1 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
-| 30 | https://fanboy.co.nz/r/fanboy-ultimate.txt |
+| 32 | https://fanboy.co.nz/r/fanboy-ultimate.txt |
 | 6 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/ads-1.txt |
 | 3 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/affiliate-click-tracking.txt |
 | 0 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/android-telemetry-tracking.txt |
@@ -1424,7 +1424,7 @@
 | 0 | https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/hola-luminati-full-block.txt |
 | 0 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt |
 | 0 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt |
-| 20 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt |
+| 22 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt |
 | 14 | https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt |
 | 0 | https://raw.githubusercontent.com/cbuijs/accomplist/master/trackers/adblock.txt |
 | 4 | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock |
@@ -1445,16 +1445,16 @@
 | 5 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 3 | https://hosts.flossboxin.org.in/files/hosts |
 | 3 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 17 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 18 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 7 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 10 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 8 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 10 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 20 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
-| 13 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
+| 14 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 8 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 0 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
-| 32 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
+| 31 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 20 | https://easylist.to/easylist/easylist.txt |
@@ -1506,7 +1506,7 @@
 | 5 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
 | 8 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
 | 6 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
-| 11 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 10 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
 | 15 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 12 | https://hosts.flossboxin.org.in/files/hosts |
 | 6 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
@@ -1520,7 +1520,7 @@
 | 4 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 1 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
-| 2 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
+| 1 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 68 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 0 | https://easylist.to/easylist/easylist.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
@@ -1550,7 +1550,7 @@
 | 2 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
 | 1 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat |
 | 100 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
-| 91 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
+| 92 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
 | 50 | https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/hola-luminati-full-block.txt |
 | 0 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt |
 | 0 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt |
@@ -1588,7 +1588,7 @@
 | 1 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 12 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 0 | https://easylist.to/easylist/easylist.txt |
-| 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 2 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -1612,7 +1612,7 @@
 | 9 | https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list |
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt |
 | 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts |
-| 18 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
+| 22 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
 | 1 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat |
 | 10 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
 | 68 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
@@ -1629,7 +1629,7 @@
 | % included | URL  |
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
-| 17 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 16 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
 | 8 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 13 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
 | 16 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
@@ -1640,13 +1640,13 @@
 | 21 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 12 | https://hosts.flossboxin.org.in/files/hosts |
 | 3 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 75 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 77 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 7 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 17 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 13 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 13 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 89 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
-| 61 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
+| 62 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 13 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 0 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 100 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
@@ -1658,11 +1658,11 @@
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/monitoring.txt |
-| 6 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
+| 7 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 29 | https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed |
 | 2 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
-| 48 | https://fanboy.co.nz/r/fanboy-ultimate.txt |
+| 49 | https://fanboy.co.nz/r/fanboy-ultimate.txt |
 | 7 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/ads-1.txt |
 | 4 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/adverts/affiliate-click-tracking.txt |
 | 1 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/android-telemetry-tracking.txt |
@@ -2032,18 +2032,18 @@
 | 42 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
 | 1 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 16 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
-| 17 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
+| 18 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 9 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 1 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
 | 1 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 9 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
-| 42 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
+| 43 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 1 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
 | 2 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 1 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 4 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
-| 0 | https://easylist.to/easylist/easylist.txt |
+| 1 | https://easylist.to/easylist/easylist.txt |
 | 3 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
@@ -2061,7 +2061,7 @@
 | 0 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/xiaomi-telemetry-tracking.txt |
 | 0 | https://easylist-downloads.adblockplus.org/ruadlist.txt |
 | 14 | https://raw.githubusercontent.com/bogachenko/filterlist/main/bogachenkoBL.hosts |
-| 20 | https://git.herrbischoff.com/trackers/plain/trackers.txt |
+| 21 | https://git.herrbischoff.com/trackers/plain/trackers.txt |
 | 0 | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung |
 | 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 4 | https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list |
@@ -2107,14 +2107,14 @@
 | 0 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
 | 1 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
-| 2 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
+| 1 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 0 | https://easylist.to/easylist/easylist.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/monitoring.txt |
-| 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
+| 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
 | 0 | https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed |
 | 1 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
 | 0 | https://fanboy.co.nz/r/fanboy-ultimate.txt |
@@ -2279,32 +2279,32 @@
 | % included | URL  |
 |---|---|
 |  | https://raw.githubusercontent.com/cbuijs/accomplist/master/top/adblock.txt |
-| 32 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
+| 31 | https://raw.githubusercontent.com/cbuijs/hagezi/main/lists/ultimate/domains.adblock |
 | 21 | https://raw.githubusercontent.com/cbuijs/1hosts/main/Xtra/domains.adblock |
 | 25 | https://raw.githubusercontent.com/cbuijs/hblock/main/host_domains/domains.adblock |
 | 18 | https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains.adblock |
-| 19 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
+| 20 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_light.txt |
 | 11 | https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt |
 | 8 | https://raw.githubusercontent.com/SystemJargon/filters/main/core_heavy.txt |
-| 13 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
+| 12 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
 | 39 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 24 | https://hosts.flossboxin.org.in/files/hosts |
 | 19 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
-| 78 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 80 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 18 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 43 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 18 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 16 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 90 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
-| 69 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
+| 70 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 18 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
-| 99 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
+| 98 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 100 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
 | 88 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 42 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 100 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 100 | https://easylist.to/easylist/easylist.txt |
-| 12 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 13 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -2327,7 +2327,7 @@
 | 16 | https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list |
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt |
 | 4 | https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts |
-| 87 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
+| 90 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
 | 4 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat |
 | 11 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
 | 92 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
@@ -2814,7 +2814,7 @@
 | 2 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 1 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | 4 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
-| 0 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
+| 1 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 4 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
@@ -2849,7 +2849,7 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
 | 0 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat |
-| 8 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
+| 7 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
 | 0 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
 | 0 | https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/hola-luminati-full-block.txt |
 | 1 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt |
@@ -3004,7 +3004,7 @@
 | 1 | https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/domlists/fireboggreenadtrackmal.txt |
 | 1 | https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt |
 | 0 | https://hosts.flossboxin.org.in/files/hosts |
-| 6 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
+| 5 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/badblock_plus.txt |
 | 1 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 6 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt |
 | 11 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
@@ -3019,7 +3019,7 @@
 | 1 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 2 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 1 | https://easylist.to/easylist/easylist.txt |
-| 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 2 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -3079,10 +3079,10 @@
 | 3 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 17 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 0 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
-| 4 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
+| 3 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
 | 9 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 2 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
-| 12 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
+| 11 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 2 | https://easylist.to/easylist/easylist.txt |
 | 9 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
@@ -3100,7 +3100,7 @@
 | 44 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/basic-telemetry-devices.txt |
 | 3 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/windows-telemetry-spy-blocklist.txt |
 | 12 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/xiaomi-telemetry-tracking.txt |
-| 1 | https://easylist-downloads.adblockplus.org/ruadlist.txt |
+| 0 | https://easylist-downloads.adblockplus.org/ruadlist.txt |
 | 26 | https://raw.githubusercontent.com/bogachenko/filterlist/main/bogachenkoBL.hosts |
 | 31 | https://git.herrbischoff.com/trackers/plain/trackers.txt |
 | 25 | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung |
@@ -3108,7 +3108,7 @@
 | 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt |
 | 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list |
-| 2 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat |
+| 1 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat |
 | 15 | https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt |
 | 38 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
 | 0 | https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/hola-luminati-full-block.txt |
@@ -3344,7 +3344,7 @@
 | 0 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 0 | https://easylist.to/easylist/easylist.txt |
-| 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/drm.txt |
@@ -3729,7 +3729,7 @@
 | 10 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 0 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
-| 18 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
+| 19 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
 | 10 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
 | 0 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
@@ -3856,13 +3856,13 @@
 | 7 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt |
 | 3 | https://filters.adtidy.org/extension/ublock/filters/1_optimized.txt |
 | 1 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
-| 7 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
+| 8 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
 | 7 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 99 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
 | 1 | https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt |
 | 2 | https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt |
-| 42 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
-| 91 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
+| 41 | https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt |
+| 90 | https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt |
 | 0 | https://easylist.to/easylist/easylist.txt |
 | 7 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 2 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
