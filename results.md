@@ -58,7 +58,7 @@
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/ads/crazy-max/spy.fork.txt |
 | 15 | https://blocklist.sefinek.net/generated/v1/adguard/ads/disconnectme/simple-ad.fork.txt |
 | 72 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/AdguardDNS.fork.txt |
-| 71 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Admiral.fork.txt |
+| 70 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Admiral.fork.txt |
 | 100 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Easylist.fork.txt |
 | 23 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Prigent-Ads.fork.txt |
 | 15 | https://blocklist.sefinek.net/generated/v1/adguard/ads/r-a-y/AdguardMobileAds.fork.txt |
@@ -73,11 +73,11 @@
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt |
 | 15 | https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt |
-| 13 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
+| 14 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/monitoring.txt |
-| 22 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
+| 21 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
 
 
 ### https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts.txt
@@ -90,7 +90,7 @@
 | 29 | https://easylist-downloads.adblockplus.org/ruadlist.txt |
 | 43 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
 | 95 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/basic-telemetry-devices.txt |
-| 17 | https://blocklist.sefinek.net/generated/v1/adguard/ads/0Zinc/easylist.fork.txt |
+| 16 | https://blocklist.sefinek.net/generated/v1/adguard/ads/0Zinc/easylist.fork.txt |
 | 11 | https://blocklist.sefinek.net/generated/v1/adguard/ads/FadeMind/UncheckyAds.fork.txt |
 | 84 | https://blocklist.sefinek.net/generated/v1/adguard/ads/adaway/hosts.fork.txt |
 | 60 | https://blocklist.sefinek.net/generated/v1/adguard/ads/anudeepND/adservers.fork.txt |
@@ -190,7 +190,7 @@
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/r-a-y/AdguardApps.fork.txt |
 | 2 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/r-a-y/AdguardMobileSpyware.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/hate-and-junk/developerdan/extended.fork.txt |
-| 1 | https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt |
+| 0 | https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt |
 | 1 | https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
@@ -324,7 +324,7 @@
 | % included | URL  |
 |---|---|
 | 12 | https://hosts.flossboxin.org.in/files/hosts |
-| 72 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
+| 71 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 9 | https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts.txt |
 | 2 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -698,14 +698,14 @@
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/ads/craiu/mobiletrackers.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/ads/crazy-max/spy.fork.txt |
 | 8 | https://blocklist.sefinek.net/generated/v1/adguard/ads/disconnectme/simple-ad.fork.txt |
-| 59 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/AdguardDNS.fork.txt |
+| 60 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/AdguardDNS.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Admiral.fork.txt |
 | 8 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Prigent-Ads.fork.txt |
 | 3 | https://blocklist.sefinek.net/generated/v1/adguard/ads/r-a-y/AdguardMobileAds.fork.txt |
 | 10 | https://blocklist.sefinek.net/generated/v1/adguard/ads/yoyo/ads-trackers-etc.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/amp/developerdan/amp-hosts-extended.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/FadeMind/add-2o7Net.fork.txt |
-| 59 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/MajkiIT/adguard-host.fork.txt |
+| 60 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/MajkiIT/adguard-host.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/MajkiIT/easy-privacy-host.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/r-a-y/AdguardApps.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/r-a-y/AdguardMobileSpyware.fork.txt |
@@ -997,7 +997,7 @@
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/data-brokers.txt |
 | 0 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/monitoring.txt |
-| 5 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
+| 6 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/radar.txt |
 
 
 ### https://blocklist.sefinek.net/generated/v1/adguard/extensions/r-a-y/AdguardApps.fork.txt
@@ -1406,33 +1406,33 @@
 | 0 | https://hosts.flossboxin.org.in/files/hosts |
 | 1 | https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt |
 | 2 | https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts.txt |
-| 9 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
+| 10 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 | 0 | https://easylist-downloads.adblockplus.org/ruadlist.txt |
-| 2 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
-| 0 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/basic-telemetry-devices.txt |
+| 3 | https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block.txt |
+| 18 | https://raw.githubusercontent.com/ThatSINEWAVE/DNS-Filters/main/categories/telemetry/basic-telemetry-devices.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/ads/0Zinc/easylist.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/ads/FadeMind/UncheckyAds.fork.txt |
-| 5 | https://blocklist.sefinek.net/generated/v1/adguard/ads/adaway/hosts.fork.txt |
+| 6 | https://blocklist.sefinek.net/generated/v1/adguard/ads/adaway/hosts.fork.txt |
 | 1 | https://blocklist.sefinek.net/generated/v1/adguard/ads/anudeepND/adservers.fork.txt |
-| 0 | https://blocklist.sefinek.net/generated/v1/adguard/ads/craiu/mobiletrackers.fork.txt |
+| 1 | https://blocklist.sefinek.net/generated/v1/adguard/ads/craiu/mobiletrackers.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/ads/crazy-max/spy.fork.txt |
 | 4 | https://blocklist.sefinek.net/generated/v1/adguard/ads/disconnectme/simple-ad.fork.txt |
 | 1 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/AdguardDNS.fork.txt |
 | 50 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Admiral.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Easylist.fork.txt |
 | 11 | https://blocklist.sefinek.net/generated/v1/adguard/ads/firebog/Prigent-Ads.fork.txt |
-| 9 | https://blocklist.sefinek.net/generated/v1/adguard/ads/r-a-y/AdguardMobileAds.fork.txt |
+| 10 | https://blocklist.sefinek.net/generated/v1/adguard/ads/r-a-y/AdguardMobileAds.fork.txt |
 | 18 | https://blocklist.sefinek.net/generated/v1/adguard/ads/yoyo/ads-trackers-etc.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/amp/developerdan/amp-hosts-extended.fork.txt |
 | 3 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/FadeMind/add-2o7Net.fork.txt |
 | 1 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/MajkiIT/adguard-host.fork.txt |
-| 0 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/MajkiIT/easy-privacy-host.fork.txt |
+| 1 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/MajkiIT/easy-privacy-host.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/r-a-y/AdguardApps.fork.txt |
-| 5 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/r-a-y/AdguardMobileSpyware.fork.txt |
+| 7 | https://blocklist.sefinek.net/generated/v1/adguard/extensions/r-a-y/AdguardMobileSpyware.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/hate-and-junk/developerdan/extended.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt |
-| 10 | https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt |
+| 11 | https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt |
 | 0 | https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt |
 | 3 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/annoyances.txt |
 | 1 | https://raw.githubusercontent.com/Retold3202/BadBlock/main/wildcards-no-*/crap.txt |
